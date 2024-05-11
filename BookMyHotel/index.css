@@ -1,0 +1,114 @@
+/*Article Section*/
+.main
+{
+    display: flex;
+    margin-left: 2px;
+    margin-right: 2px;
+    justify-content: space-between;
+}
+.Article{
+    width: 79%;
+    background-color: aqua;
+    height: 30%;
+    display:flex;
+    
+    text-align: center;
+}
+.aside{
+    width: 20%;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+    color: white;
+    background-color: lightgreen;
+}
+.card
+{
+    width: 100px;
+    text-align: center;
+    background-color: rgb(106, 106, 179);
+    padding: 2px;
+    border: solid white;
+}
+.one
+{
+    padding: 5px;
+    margin-bottom: 2px;
+    color:white;
+    font-size: 30px;
+}
+#prop1,#prop2,#prop3,#prop4,#prop5
+{
+    margin:auto;
+    width: 80%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius:20px ;
+    border: solid black;
+
+
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
