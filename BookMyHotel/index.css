@@ -23,3 +23,12 @@
 #sign-up{
     background-color:red ;
 }
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer {
+    margin-top: auto;
+}
