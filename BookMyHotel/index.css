@@ -1,0 +1,25 @@
+/* Name-Tusar Adding css to navbar having id=header , sign in and sign up button , search bar */
+#header{
+    color: black;
+    hover: none;
+    font-weight: 500;
+}
+#header.navbar-brand {
+    margin-right: 20px; 
+    font-size: 24px;
+}
+.navbar-nav .nav-item {
+    margin-right: 30px; 
+}
+.form-control {
+    width: 450px; 
+    border-radius: 20px; 
+    padding: 5px 10px;
+}
+
+#sign-in{
+    background-color:dodgerblue ;
+}
+#sign-up{
+    background-color:red ;
+}
