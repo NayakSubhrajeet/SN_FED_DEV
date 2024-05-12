@@ -32,3 +32,6 @@ body {
 footer {
     margin-top: auto;
 }
+.d-flex{
+    border-top-right-radius: 10px;
+}
